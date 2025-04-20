@@ -1,3 +1,5 @@
+[This repository has been modified from an original private repository to remove potentially sensitive data files]
+
 # VoltronX: Federated Learning for Privacy-Preserving Coordination in Fraud Detection
 This project implements a federated learning framework for fraud detection across financial institutions while ensuring data privacy and regulatory compliance. Each bank trains a local fraud detection model on its proprietary transaction data, sharing only encrypted model updates with a central aggregator. The global model benefits from collaborative learning without exposing sensitive data.
 
