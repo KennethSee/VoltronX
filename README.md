@@ -11,8 +11,8 @@ Key features:
 ## Usage
 ### Clone the Repository
 ```bash
-git clone https://github.com/KennethSee/BISAnalyticsChallenge2025.git
-cd BISAnalyticsChallenge2025
+git clone https://github.com/KennethSee/VoltronX.git
+cd VoltronX
 ```
 
 ### Install Required Packages
